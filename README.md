@@ -1,0 +1,2 @@
+# Twinkle_GitRepo_for_Gateway_Assignments
+Gateway Group Assignments
